@@ -1,0 +1,15 @@
+Commands in linux:-
+
+1)pwd-to know present directory
+2)cd-used to go to a directory
+3)cd ..-uesd to back folder
+4)mkdir "folder name"-used to create a folder
+5)rmdir "folder name"-used to delete a empty directory
+6)rm-used to delete files and directories
+7)touch -used to create a file(touch file name.txt)
+8)ls -used to know howmuch file there(ls-a -hidden file)
+9)cp file name /folder name-used to copy the file
+10)mv file name /folder name-used to move the file
+11)mv old file new file-used tochange the file name
+12)echo msg-used to print msg
+13)cat file name -used to display content of a file
