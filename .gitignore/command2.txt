@@ -1,8 +1,0 @@
-command for viewing a file:-
-
-1)head command-it is used to display the first 10 lines of a file
-2)tail command-it is used to display the last 10 lines of a file
-3)wc command-it used to display the number of lines words and characters contained in a line
-4)cp -i command-it is used to overwritten existing file in to new file
-5)nano command-it is used to create a file & show in command prompt
-6)exit command-it is used to exit the command prompt
