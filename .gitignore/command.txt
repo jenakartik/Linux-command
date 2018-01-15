@@ -1,0 +1,59 @@
+Commands in linux:-
+
+1)pwd-to know present directory
+
+2)cd folder name-used to go to a directory
+
+3)cd ..-uesd to back folder
+
+4)mkdir "folder name"-used to create a folder
+
+5)rmdir "folder name"-used to delete a empty directory
+
+6)rm file name-used to delete files and directories
+
+7)touch file name -used to create a file(touch file name.txt)
+
+8)ls -used to know howmuch file there(ls-a -hidden file)
+
+9)cp file name /folder name -used to copy the file
+
+10)mv file name /folder name -used to move the file
+
+11)mv old file new file -used tochange the file name
+
+12)echo msg-used to print msg
+
+13)cat file name -used to display content of a file
+
+14)cat > file name -used to write content on command prompt
+
+15)echo "msg">file name -used to direct write msg in file(>> next msg in file)
+
+16)head command-it is used to display the first 10 lines of a file
+
+17)tail command-it is used to display the last 10 lines of a file
+
+18)wc command-it used to display the number of lines words and characters contained in a line
+
+19)cp -i command-it is used to overwritten existing file in to new file
+
+20)nano command-it is used to create a file & show in command prompt
+
+21)exit command-it is used to exit the command prompt
+
+21)clear command -used to clear the command prompt
+
+22)ln current file exist file -link the file
+
+23)ln -s current file new file -used to symbolic soft link
+
+24)date command-it display the date and time
+
+25)uname command-it display the os name
+
+26)cal command-it display the calendar
+
+27)man command-it display description of the manual page
+
+28)vi file name -used to write in vi editor
