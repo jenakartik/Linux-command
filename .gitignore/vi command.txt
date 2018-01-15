@@ -1,0 +1,40 @@
+VI EDITOR COMMANDS:-
+
+
+1-vi file name -used to open vi editor and create a file
+
+2- click i -in vieditor go to command mode
+
+3- esc -go  insert mode to command mode
+
+4-:q! -close vi editor and not save
+
+5-:wq -save vi file and close
+
+6-esc dw -delete a word in a line
+
+7-esc dd-delete entire line
+
+8-esc h,j,k,l(left,right,upper,down arrow)-used to move curser
+
+9-esc x -used to delete a character in right position
+
+10-esc X -used to delete a character in left position
+
+11-esc w -used to go new line
+
+12-esc a -go to next character in same line
+
+13-p -used to paste some cut line in vi editor
+
+14-yy -used copy line in vi editor(for multiple line -3yy -here 3 line will copied)
+
+15-yw -used to copy a word
+
+16-u -used to undo
+
+17-ctr+r -used to redo
+
+18-:q-used to quit if u haven't made any edit
+
+19-chmod 755 file name -used to give the permission to file
