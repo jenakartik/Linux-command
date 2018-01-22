@@ -1,0 +1,14 @@
+* Count html tags in shell scripting program
+//first create a html file(source.html)is my html file
+
+
+#!/bin/sh
+#cat source.html | while read p
+while read p
+do
+echo $p
+done <source.html>
+echo -n "<html>" ; grep -c html source.html
+echo -n "<head>" ; grep -c head source.html
+echo -n "<p>" ; grep -c p source.html
+echo -n "<body>" ; grep -c body source.html
